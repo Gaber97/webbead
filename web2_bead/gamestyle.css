@@ -1,0 +1,71 @@
+div {
+
+
+    margin: 10px;
+}
+
+
+
+div.menu {
+    text-align : center;
+    position: relative;
+    
+    
+
+}
+
+table.map {
+        margin-left:auto; 
+        margin-right:auto;
+        border-collapse: collapse;
+
+
+        
+      }
+
+
+table.map tr, td {
+    border: 1px solid black;
+
+
+
+}
+
+
+td {
+    text-align : center;
+    font-size: 40px;
+    font-family: Calibri;
+
+
+}
+
+
+table.map td {
+    width: 50px;
+    height: 50px;
+    border: 1px solid black;
+}
+    
+
+
+div.Name {
+   
+    color : #cccccc;
+    
+
+}
+
+body {
+    background-image: url("star.jpg");
+    
+   }
+
+
+input {
+
+
+    width: 20%;
+    
+}
+}
